@@ -1,4 +1,5 @@
 # VoiceLearn: A Language Learning Application
+![voicelearn](https://github.com/user-attachments/assets/2fe100d2-a61f-41f2-93f2-cbb0713c4432)
 
 
 VoiceLearn is an innovative language learning application designed to help users improve their language skills through interactive methods and tailored learning experiences. This platform harnesses cutting-edge technologies to provide a seamless learning experience.

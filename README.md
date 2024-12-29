@@ -4,13 +4,17 @@
 VoiceLearn is an innovative language learning application designed to help users improve their language skills through interactive methods and tailored learning experiences. This platform harnesses cutting-edge technologies to provide a seamless learning experience.
 
 ## Table of Contents
-
+- [Project architecture](#architecture)
 - [Docker Image](#docker-image)
 - [Frontend](#frontend)
 - [Backend](#backend)
 - [Getting Started](#getting-started)
 - [Video Demonstration](#video-demonstration)
-- [Contributing](#contributing)
+- [Contributors](#Contributors)
+
+## Project architecture
+
+![architecture](https://github.com/user-attachments/assets/13c45c72-9641-410f-b9ba-43d293948ebb)
 
 
 ## Docker Image
@@ -73,10 +77,11 @@ com.voicelearn.app
 - Express.js
 - Node.js
 - MySQL
+- Python
 
 ## Getting Started
 
-Here are step-by-step instructions to set up and run your VoiceLearn project locally:
+Here are step-by-step instructions to set up and run  VoiceLearn project locally:
 
 ### Prerequisites
 - **Git**: Ensure you have Git installed. If not, download and install it from [git-scm.com](https://git-scm.com).
@@ -112,6 +117,9 @@ Click the link below to watch a demonstration video:
 https://github.com/user-attachments/assets/e7b09836-7dfc-451d-8ada-8be4694a3ee3
 
 
-## Contributing
 
-We welcome contributions from everyone, and we appreciate your help to make this project even better! If you would like to contribute, please follow these guidelines:
+## Contributors
+- [**ELHALLA ZINEB**](https://github.com/ZinebELHALLA)
+- [**EL MAHJOUBI SOUKAINA**](https://github.com/elmahjoubisouka)
+
+

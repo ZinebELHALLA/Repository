@@ -112,10 +112,20 @@ Here are step-by-step instructions to set up and run  VoiceLearn project locally
 
 ## Video Demonstration
 
-Click the link below to watch a demonstration video:
+Demonstration video for the web application (VoiceLearn admin panel):
+
+
+https://github.com/user-attachments/assets/45e65d63-83a3-4f12-b616-e6cdb8698b39
+
+
+
+
+Demonstration video for the mobile application:
 
 
 https://github.com/user-attachments/assets/e7b09836-7dfc-451d-8ada-8be4694a3ee3
+
+
 
 
 

@@ -15,7 +15,7 @@ VoiceLearn is an innovative language learning application designed to help users
 
 ## Project architecture
 
-![architecture](https://github.com/user-attachments/assets/13c45c72-9641-410f-b9ba-43d293948ebb)
+![architecture](![archi](https://github.com/user-attachments/assets/f65b80a5-f41d-4cae-b959-e452384fbbf4)
 
 
 ## Docker Image
